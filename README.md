@@ -25,20 +25,26 @@ Hoje sou Analista de Sistemas Sênior na Onet Brasil, em Santana de Parnaíba �
 
 ### Projetos em destaque
 
+**Sorpion System — Plataforma web e módulos próprios**
+Idealização, arquitetura e desenvolvimento do Sorpion System do zero, incluindo a construção do website, definição da arquitetura da aplicação e desenvolvimento dos módulos que compõem a plataforma. Responsável pela implementação e evolução técnica da solução, desde a concepção até a disponibilização em produção.
+`Stack: [preencher com as tecnologias reais utilizadas]`
+**Resultado:** Plataforma própria desenvolvida e publicada em produção, centralizando diferentes módulos e funcionalidades em uma única solução.
+
 **Migração do ambiente TOTVS Protheus**
-Participação na migração do ERP Protheus para uma nova infraestrutura, garantindo continuidade operacional e estabilidade do sistema.
+Participação na migração do ERP Protheus para uma nova infraestrutura, envolvendo adequação do ambiente, configurações, validações e suporte técnico durante o processo de transição.
 `Stack: TOTVS Protheus · ADVPL`
-Resultado: [preencher]
+**Resultado:** Migração concluída com preservação da continuidade operacional, estabilidade do ERP e funcionamento das customizações e processos existentes no novo ambiente.
 
 **Implantação da plataforma TOTVS Fluig**
-Configuração inicial da plataforma, desenvolvimento de APIs REST para integração com o Protheus e customizações para os processos internos da empresa.
-`Stack: Fluig · APIs REST · Protheus`
-Resultado: [preencher]
+Configuração inicial da plataforma, desenvolvimento de APIs REST para integração com o Protheus e customizações voltadas aos processos internos da empresa.
+`Stack: TOTVS Fluig · APIs REST · TOTVS Protheus`
+**Resultado:** Plataforma integrada ao ecossistema corporativo, permitindo comunicação entre Fluig e Protheus e criando a base tecnológica para digitalização e automação de processos internos.
 
 **Integrações entre sistemas corporativos**
-Desenvolvimento de integrações entre Protheus, Fluig, Nexti e sistemas de terceiros via APIs REST, e automação de processos internos.
-`Stack: APIs REST · WebServices · SQL Server`
-Resultado: [preencher]
+Desenvolvimento e manutenção de integrações entre Protheus, Fluig, Nexti e sistemas de terceiros, utilizando APIs REST, WebServices e acesso a dados, além da automação de processos internos.
+`Stack: APIs REST · WebServices · SQL Server · TOTVS Protheus · TOTVS Fluig`
+**Resultado:** Centralização do fluxo de informações entre diferentes sistemas, redução de atividades manuais e maior consistência na troca de dados entre as plataformas corporativas.
+
 
 ### Atividade no GitHub
 

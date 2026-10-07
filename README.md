@@ -43,7 +43,7 @@ Responsável pela concepção técnica, implementação e evolução da soluçã
 
 **Resultado:** Plataforma própria desenvolvida e publicada em produção, com arquitetura preparada para evolução contínua e incorporação de novos módulos e funcionalidades.
 
-🌐 **Produção:** [sorpionsystem.com.br](https://www.sorpionsystem.com.br)
+🌐 **Produção:** [scorpionsystem.com.br](https://www.scorpionsystem.com.br)
 
 ---
 

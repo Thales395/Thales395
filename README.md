@@ -6,7 +6,7 @@
 
 ### Sobre mim
 
-Analista de Sistemas Sênior com mais de 13 anos de experiência profissional em desenvolvimento, sustentação, integração e evolução de sistemas corporativos, com sólida atuação no ecossistema **TOTVS Protheus**.
+Analista de Sistemas Sênior com mais de 4 anos de experiência profissional em desenvolvimento, sustentação, integração e evolução de sistemas corporativos, com sólida atuação no ecossistema **TOTVS Protheus**.
 
 Atuo no desenvolvimento de customizações em **ADVPL e TL++**, APIs REST, Pontos de Entrada (PEs), automação de processos e integrações entre **Protheus, Fluig, Nexti e sistemas de terceiros**.
 
